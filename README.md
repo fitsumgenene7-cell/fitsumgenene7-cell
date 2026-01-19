@@ -9,8 +9,9 @@
 - Git & GitHub
 
 ### Projects
-- Service Request System (JavaFX)
+- Service Request System
 - Digital Clearance System
 - Simple E-commerce Website
+- Unix Shell
 
 📫 Contact: fitsumgenene7@gmail.com
