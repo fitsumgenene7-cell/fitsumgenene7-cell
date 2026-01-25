@@ -6,6 +6,7 @@
 ### Skills
 - JavaScript, HTML, CSS
 - C, C++
+- Java, Python
 - Git & GitHub
 
 ### Projects
