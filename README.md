@@ -7,6 +7,7 @@
 - JavaScript, TypeScri[t, HTML, CSS
 - React, Node.js
 - Java, Python
+- Mongodb, MySQL
 - C, C++
 - Git & GitHub
 
