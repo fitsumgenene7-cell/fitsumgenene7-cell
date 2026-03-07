@@ -4,8 +4,7 @@
 💻 Junior Software Developer  
 
 ### Skills
-- JavaScript, TypeScript, HTML, CSS
-- React, Node.js
+- React.js, TypeScript, Node.js, Express.js
 - Java, Python
 - Mongodb, MySQL
 - C, C++
