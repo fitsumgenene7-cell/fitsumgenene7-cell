@@ -12,7 +12,7 @@
 - Git & GitHub
 
 ### Projects
-- Service Request System
+- G-mart
 - Digital Clearance System
 - Unix Shell
 
