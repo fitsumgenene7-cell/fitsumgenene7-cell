@@ -1,14 +1,9 @@
 ## Hi, I'm Genene 👋
 
-🎓 Computer Science student  
 💻 Junior Software Developer  
 
 ### Skills
-- React.js, TypeScript, Node.js, Express.js
-- Java, Python
-- Mongodb, MySQL
-- C, C++
-- Git & GitHub
+![Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,java,python,mongodb,mysql,c,cpp,git,github&perline=6)
 
 ### Projects
 - G-mart
