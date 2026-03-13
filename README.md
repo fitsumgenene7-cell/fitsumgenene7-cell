@@ -3,7 +3,7 @@
 💻 Junior Software Developer  
 
 ### Skills
-![Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,java,python,mongodb,mysql,c,cpp,git,github&perline=6)
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,java,python,mongodb,mysql,c,cpp,git,github&perline=6" alt="Skills" height="80" />
 
 ### Projects
 - G-mart
