@@ -33,7 +33,7 @@ Currently, I am focused on:
 
 - Email: fitsumgenene7@gmail.com
 - LinkedIn: www.linkedin.com/in/genene-fitsum
-- Portfolio: genene.tech
+- Portfolio: www.genene.tech
 
 ---
 
