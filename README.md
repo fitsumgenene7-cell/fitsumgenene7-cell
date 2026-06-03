@@ -28,45 +28,12 @@ Currently, I am focused on:
 
 ---
 
-## 🛠 Featured Projects
-
-### Slotify
-A queue and appointment management platform designed to simplify customer bookings and scheduling.
-
-**Tech Stack:** React, Node.js, Express, MongoDB
-
----
-
-### Health Analytics Dashboard
-Interactive dashboard for visualizing healthcare spending, life expectancy, and mortality trends using real-world datasets.
-
-**Tech Stack:** React, TypeScript, Data Visualization
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React Patterns
-- System Design
-- Cloud Technologies
-- Software Engineering Best Practices
-
----
 
 ## 📫 Connect With Me
 
 - Email: fitsumgenene7@gmail.com
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
+- LinkedIn: www.linkedin.com/in/genene-fitsum
+- Portfolio: genene.tech
 
 ---
 
-> "Consistency compounds. Small improvements every day lead to remarkable results."
