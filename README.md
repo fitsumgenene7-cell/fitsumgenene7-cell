@@ -5,7 +5,7 @@
 I am a Computer Science student passionate about building full-stack applications, solving real-world problems through technology, and continuously improving my software engineering skills.
 
 Currently, I am focused on:
-- Building full-stack web applications
+- Building full-stack SaaS applications
 - Learning software architecture and scalable systems
 - Strengthening Data Structures & Algorithms knowledge
 - Exploring entrepreneurship and technology-driven businesses
@@ -15,18 +15,6 @@ Currently, I am focused on:
 ## 🚀 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,java,python,mongodb,mysql,c,cpp,git,github&perline=6" alt="Skills" />
-
----
-
-## 📌 Current Focus
-
-- Full-Stack Development
-- Backend Engineering
-- Database Design
-- Software Architecture
-- Entrepreneurship & Product Development
-
----
 
 
 ## 📫 Connect With Me
