@@ -1,6 +1,6 @@
 # Hi, I'm Genene Fitsum 👋
 
-## Software Developer | Computer Science Student | Aspiring Entrepreneur
+## Software Developer | Computer Science Student 
 
 I am a Computer Science student passionate about building full-stack applications, solving real-world problems through technology, and continuously improving my software engineering skills.
 
