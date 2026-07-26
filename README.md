@@ -1,4 +1,4 @@
-# Hi, I'm Genene Fitsum 👋
+# Hi, I'm Genene Fitsum 
 
 ## Software Developer | Computer Science Student 
 
@@ -12,12 +12,12 @@ Currently, I am focused on:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,java,python,mongodb,mysql,c,cpp,git,github&perline=6" alt="Skills" />
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 - Email: fitsumgenene7@gmail.com
 - LinkedIn: www.linkedin.com/in/genene-fitsum
