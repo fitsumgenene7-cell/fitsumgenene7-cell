@@ -13,7 +13,7 @@ Currently, I am focused on:
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,python,mongodb,mysql,docker,c,cpp,git,github&perline=6" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,python,mongodb,mysql,docker,githubactions,git,github&perline=6" alt="Skills" />
 
 
 ## Connect With Me
