@@ -1,20 +1,19 @@
 # Hi, I'm Genene Fitsum 
 
-## Software Developer | Computer Science Student 
+## Full-Stack Developer | Computer Science Student 
 
 I am a Computer Science student passionate about building full-stack applications, solving real-world problems through technology, and continuously improving my software engineering skills.
 
 Currently, I am focused on:
 - Building full-stack SaaS applications
-- Learning software architecture and scalable systems
-- Strengthening Data Structures & Algorithms knowledge
-- Exploring entrepreneurship and technology-driven businesses
+- Building Mobile applications
+- Solving real world problems
 
 ---
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,java,python,mongodb,mysql,c,cpp,git,github&perline=6" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=react,react-native,ts,nodejs,express,java,python,mongodb,mysql,c,cpp,git,github&perline=6" alt="Skills" />
 
 
 ## Connect With Me
