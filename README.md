@@ -1,6 +1,6 @@
 # Hi, I'm Genene Fitsum 
 
-## Full-Stack Developer | Computer Science Student 
+## Software Engineer 
 
 I am a Computer Science student passionate about building full-stack applications, solving real-world problems through technology, and continuously improving my software engineering skills.
 
