@@ -6,7 +6,7 @@ I am a Computer Science student passionate about building full-stack application
 
 Currently, I am focused on:
 - Building full-stack applications
-- Solving real world problems\
+- Solving real world problems
 
 ---
 
