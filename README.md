@@ -2,7 +2,7 @@
 
 ## Software Engineer 
 
-I am a Computer Science student passionate about building full-stack applications, solving real-world problems through technology, and continuously improving my software engineering skills.
+A Software Developer passionate about building full-stack applications, solving real-world problems through technology, and continuously improving my software engineering skills.
 
 Currently, I am focused on:
 - Building full-stack applications
